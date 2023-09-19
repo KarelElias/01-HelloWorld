@@ -1,0 +1,49 @@
+.navbar {
+    background-color:black;
+    padding: 10px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+body {
+    margin: 0px;
+}
+
+.navbar a {
+    color: yellow;
+    font-size: x-large;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    color: orange;
+}
+
+.mainPageContrainer {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.headMainPage {
+    margin-top: 75px;
+}
+
+.Media {
+    background-color: black;
+    color: yellow;
+    padding: 40px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.one {
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
+
+.two {
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+}
